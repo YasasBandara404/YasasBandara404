@@ -54,10 +54,6 @@ console.log("Welcome to my GitHub profile!");
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YasasBandara404&theme=radical&show_icons=true&count_private=true"/>
   
-<br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=YasasBandara404&count_private=true&theme=radical" />
-  
 </td>
 <td width="50%" align="center">
 
